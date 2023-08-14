@@ -59,12 +59,6 @@
 
 ###
 
-<br clear="both">
-
-
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/hamzahalhalabi1/count.svg?"  />
 </div>
